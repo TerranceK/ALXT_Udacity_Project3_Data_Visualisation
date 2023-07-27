@@ -1,4 +1,4 @@
-# (Dataset Exploration Title)
+# Identifying the siitability of different feature for predicting a borrower's Annual Percentage Rate (APR) for a loan
 ## by TERRANCE KANYEZI
 
 
